@@ -8,7 +8,7 @@ license-file = "LICENSE"
 name = "dev_util"
 readme = "README.md"
 repository = "https://github.com/zgj0315/dev_util/"
-version = "0.1.0"
+version = "0.1.1"
 
 [dependencies]
 chrono = "0.4"
