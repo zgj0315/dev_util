@@ -63,6 +63,6 @@ mod tests {
     fn test_log_init_with_level() {
         log::info!("log is't initialized, you can't see me");
         log_init_with_level(Level::TRACE);
-        log::info!("log is initialized");
+        log::trace!("log is initialized");
     }
 }
